@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: picture
+widget_id: pictures
 headless: true
 weight: 20
 title: Latest News
