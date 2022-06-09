@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: RECENT-POSTS
+widget_id: Purpose
 headless: true
 weight: 10
 title: 21st Fox
