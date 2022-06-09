@@ -1,5 +1,5 @@
 ---
-title: Anthony_Shao
+title: (Shao)Anthony
 role: general consultant
 avatar_filename: avatar.jpg
 social: []
