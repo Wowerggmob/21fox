@@ -23,7 +23,7 @@ education:
 email: ""
 superuser: false
 user_groups:
-  - researchers
+  - Researchers
 highlight_name: false
 ---
 I am committed to the company's publicity and sales, and conduct market research to a certain extent through information collection
