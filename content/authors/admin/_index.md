@@ -1,7 +1,7 @@
 ---
 title: 蒋俊莹
 role: Sales Manager
-avatar_filename: windy.jpg
+avatar_filename: avatar.jpg
 bio: Top representitive of company in the marketing field
 interests:
   - commerce
