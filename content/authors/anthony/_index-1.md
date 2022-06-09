@@ -6,5 +6,5 @@ bio: ""
 social: []
 superuser: true
 user_groups:
-  - Visitors
+  - Researchers
 ---
