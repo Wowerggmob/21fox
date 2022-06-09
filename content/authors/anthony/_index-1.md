@@ -1,7 +1,7 @@
 ---
 title: Yuan(Anthony)
 role: Marketing Director
-avatar_filename: https://github.com/Wowerggmob/21fox/blob/main/content/authors/anthony/avatar.jpg
+avatar_filename: yuan.jpg
 bio: ""
 social: []
 superuser: true
