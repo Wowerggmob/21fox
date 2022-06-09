@@ -8,6 +8,7 @@
 appearance:
   theme_day: Coffee
   theme_night: Mr Robot
+  theme_1: Ocean
   font: native
   font_size: L
 
