@@ -1,7 +1,7 @@
 ---
 title: Anthony Shao
 role: general consultant
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: General representative
 social: []
 superuser: false
