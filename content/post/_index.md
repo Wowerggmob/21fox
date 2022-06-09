@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Articles
 view: compact
 banner:
   caption: ""
