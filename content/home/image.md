@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: 766fa74907f5c6d2b57bdbae57635f35.jpeg
+    image: ""
     image_darken: 0
     image_parallax: false
     image_position: center
