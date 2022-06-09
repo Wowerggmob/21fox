@@ -18,16 +18,16 @@ content:
   email: 2476514685@qq.com
   phone: 888-888-888
   address:
-    street: 硅谷大街452号
+    street: 452 Guigu St 
     city: Changchun
     region: JiLin
     postcode: '310000'
     country: China
     country_code: CHN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '43.82142'
+    longitude: '125.27048'
+  directions: Enter Main Hall and go on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
