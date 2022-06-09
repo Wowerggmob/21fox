@@ -4,7 +4,7 @@ role: Marketing Director
 avatar_filename: avatar.jpg
 bio: ""
 social: []
-superuser: false
+superuser: true
 user_groups:
   - Researchers
 ---
