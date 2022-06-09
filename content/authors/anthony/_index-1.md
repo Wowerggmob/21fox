@@ -1,5 +1,5 @@
 ---
-title: Yuan(Anthony)
+title: Yuan(Anthony.)
 role: Marketing Director
 avatar_filename: avatar.jpg
 bio: ""
