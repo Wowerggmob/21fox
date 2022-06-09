@@ -3,7 +3,7 @@ widget: pages
 widget_id: pictures
 headless: true
 weight: 20
-title: Latest News
+title: ""
 subtitle: null
 content:
   count: 5
