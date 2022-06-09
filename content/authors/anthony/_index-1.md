@@ -1,5 +1,5 @@
 ---
-title: Anthony
+title: anthony
 role: Marketing Director
 avatar_filename: avatar.jpg
 bio: ""
