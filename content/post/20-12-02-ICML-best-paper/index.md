@@ -663,34 +663,6 @@ image:
 
 <!--StartFragment-->
 
-Our forms a landholding and operating company. The Company’s segments include real estate, leasing and [resort](<>) [amenities](<>). Our founders wanted to start this real estate company because he was optimistic about the future of the industry. Build a support real estate is the most representative industry of city development level. Because its products are the backbone of the city. The founders understood some information about the real estate industry from many aspects and made some plans to enter the real estate industry. The plans are as follows:
-
-<!--\[if !supportLists]-->1.      <!--\[endif]-->Think Through Our Goals
-
-<!--\[if !supportLists]-->2.      <!--\[endif]-->Conduct In-Depth Research
-
-<!--\[if !supportLists]-->3.      <!--\[endif]-->Organize Our Finances
-
-<!--\[if !supportLists]-->4.      <!--\[endif]-->Craft Our Business Strategy
-
-<!--\[if !supportLists]-->5.      <!--\[endif]-->Plan Our Marketing
-
-<!--\[if !supportLists]-->6.      <!--\[endif]-->Build A Website
-
-<!--\[if !supportLists]-->7.      <!--\[endif]-->Organize Our Company Successfully
-
-Founders know that setting up a real estate company requires registered capital and approval qualifications. We started with our previous savings, and then borrowed money from our friends and parents, who were more supportive and did not ask for interest. Later, I also borrowed some money from the bank and got the registered capital. We learned about some types of real estate. There are several types of real estate, each with a unique purpose and utility. The main categories are:
-
-<!--\[if !supportLists]-->1.      <!--\[endif]-->Land
-
-<!--\[if !supportLists]-->2.      <!--\[endif]-->Residential
-
-<!--\[if !supportLists]-->3.      <!--\[endif]-->Commercial
-
-<!--\[if !supportLists]-->4.      <!--\[endif]-->Industrial  \[2]
-
-After we knew about real estate, we really started our company.
-
-In addition to the general real estate development, operation, management and service business, our company also has real estate leasing and resort development. People always need a place to settle down, no matter buying a house or renting a house, our company can provide services. The development of real estate land, pre-sale, sales and leasing of commercial houses are the most basic business of our company, and also account for a relatively large proportion of the business. We want to develop a new business which is resort amenities. With the improvement of living standards, more and more people pay attention to daily leisure, away from the hustle and bustle of the city centre, relax themselves; there are also many people who like to take a family vacation for leisure. We are very optimistic about new business development at the resort. In order to enable our guests to enjoy their holiday, we usually have a variety of facilities to meet their needs, such as catering, accommodation, sports activities, entertainment and shopping. According to different tourism resources and environment, our resort development according to local conditions of the type, there are seashore, forest, lakeside, hot spring, golf, grassland, valley and other categories, different resources, its recreational functions and environmental landscape performance is also different. Guests can choose different categories according to their preferences.
+ur forms a landholding and operating company. The Company’s segments include real estate, leasing and [resort](<>) [amenities](<>). Our founders wanted to start this real estate company because he was optimistic about the future of the industry. Build a support real estate is the most representative industry of city development level. Because its products are the backbone of the city. The founders understood some information about the real estate industry from many aspects and made some plans to enter the real estate industry.
 
 <!--EndFragment-->
