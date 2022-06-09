@@ -1,5 +1,5 @@
 ---
-title: anthony
+title: Anthony Yuan
 role: Marketing Director
 avatar_filename: avatar.jpg
 bio: ""
