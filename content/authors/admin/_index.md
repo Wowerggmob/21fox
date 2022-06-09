@@ -4,22 +4,11 @@ role: Sales Manager
 avatar_filename: windy.jpg
 bio: Top representitive of company in the marketing field
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - commerce
 social: []
 organizations: []
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 superuser: false
 user_groups:
