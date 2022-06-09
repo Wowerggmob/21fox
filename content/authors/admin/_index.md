@@ -1,5 +1,5 @@
 ---
-title: 蒋俊莹
+title: Windy
 role: Sales Manager
 avatar_filename: avatar.jpg
 bio: Top representitive of company in the marketing field
